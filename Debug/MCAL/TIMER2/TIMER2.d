@@ -1,0 +1,25 @@
+MCAL/TIMER2/TIMER2.d MCAL/TIMER2/TIMER2.o: ../MCAL/TIMER2/TIMER2.c \
+ ../MCAL/TIMER2/TIMER2.h ../MCAL/TIMER2/../../LIB/Typedef.h \
+ ../MCAL/TIMER2/TIMER2_ERR_HANDLE.h ../MCAL/TIMER2/TIMER2_Config.h \
+ ../MCAL/TIMER2/../../MCAL/DIO/DIO.h \
+ ../MCAL/TIMER2/../../MCAL/DIO/../../LIB/Typedef.h \
+ ../MCAL/TIMER2/../../MCAL/DIO/DIO_ERR_HANDLE.h \
+ ../MCAL/TIMER2/../../LIB/atmega32.h ../MCAL/TIMER2/../../LIB/BIT_Math.h
+
+../MCAL/TIMER2/TIMER2.h:
+
+../MCAL/TIMER2/../../LIB/Typedef.h:
+
+../MCAL/TIMER2/TIMER2_ERR_HANDLE.h:
+
+../MCAL/TIMER2/TIMER2_Config.h:
+
+../MCAL/TIMER2/../../MCAL/DIO/DIO.h:
+
+../MCAL/TIMER2/../../MCAL/DIO/../../LIB/Typedef.h:
+
+../MCAL/TIMER2/../../MCAL/DIO/DIO_ERR_HANDLE.h:
+
+../MCAL/TIMER2/../../LIB/atmega32.h:
+
+../MCAL/TIMER2/../../LIB/BIT_Math.h:
